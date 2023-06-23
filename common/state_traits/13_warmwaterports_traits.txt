@@ -1,6 +1,5 @@
 ﻿state_trait_arctic_waters = {
 	icon = "gfx/interface/icons/state_trait_icons/cold_climate.dds"
-	
 	modifier = {
 		state_building_port_max_level_add = -4
 		state_building_naval_base_max_level_add = -20
@@ -9,7 +8,6 @@
 
 state_trait_chilly_waters = {
 	icon = "gfx/interface/icons/state_trait_icons/fjords.dds"
-	
 	modifier = {
 		state_building_port_max_level_add = -2
 		state_building_naval_base_max_level_add = -10
